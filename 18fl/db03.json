@@ -2,18 +2,11 @@
 
     //"spider": "https://gh.con.sh/https://raw.githubusercontent.com/aliluya1977/yg/main/pg.jar",
     "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375",
-    "sites": [{
-            "key": "色播",
-            "name": "公众号：盒软迷",
-            "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/aliluya1977/yg/main/h/色播.js",
-            "searchable": 1,
-            "changeable": 0
-        },
+    "sites": [
 
         {
             "key": "色播",
-            "name": "色播直播",
+            "name": "公众号：盒软迷",
             "type": 3,
             "api": "https://gh.con.sh/https://raw.githubusercontent.com/aliluya1977/yg/main/h/色播.js",
             "searchable": 1,
